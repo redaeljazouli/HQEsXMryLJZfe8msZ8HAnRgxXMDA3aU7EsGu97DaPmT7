@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dH:/projet logic/simulation/qsim
+vhard_block
+Z1 !s110 1639383871
+!i10b 1
+!s100 bk66em37k2b1ajV25dm7U2
+I6EdB>gELoEe0V@`8HUMaj3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1639383871
+Z4 8montre_digit.vo
+Z5 Fmontre_digit.vo
+L0 194
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1639383871.000000
+Z8 !s107 montre_digit.vo|
+Z9 !s90 -work|work|montre_digit.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vmontre_digit
+R1
+!i10b 1
+!s100 :TM63eR<6coZ3HK@o7nDj2
+IZ4:D4z`n6JKIEIb5mmSlD0
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmontre_digit_vlg_vec_tst
+!s110 1639383872
+!i10b 1
+!s100 QA5MZ@_8lj7D:keD=_AV:1
+IogO5lLdab074K2X[KeS[L2
+R2
+R0
+w1639383870
+8Waveform3.vwf.vt
+FWaveform3.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform3.vwf.vt|
+!s90 -work|work|Waveform3.vwf.vt|
+!i113 1
+R10
+R11

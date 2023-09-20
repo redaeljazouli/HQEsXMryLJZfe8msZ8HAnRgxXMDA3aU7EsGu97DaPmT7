@@ -1,0 +1,18 @@
+SUBDESIGN tabledecodage
+(
+	s[2..0] 	: INPUT ;
+	erreur[6..0]: OUTPUT;
+)
+BEGIN
+TABLE
+	s[2..0]	=>  erreur[6..0];
+		H"1"		=>	H"10";
+		H"2"		=>	H"20";
+		H"3"		=>	H"2";
+		H"4"		=>	H"40";
+		H"5"		=>	H"4";
+		H"6"		=>	H"8";
+		H"7"		=>	H"1";
+		H"0"		=>	H"0";
+END TABLE;
+END;
